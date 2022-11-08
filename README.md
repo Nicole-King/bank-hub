@@ -1,11 +1,11 @@
 <!doctype html>
-<html>
-<head>
-<title>Our Funky HTML Page</title>
-<meta name="description" content="Our first page">
-<meta name="keywords" content="html tutorial template">
-</head>
-<body>
-Content goes here.
-</body>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+  </body>
 </html>
