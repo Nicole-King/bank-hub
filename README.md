@@ -1,12 +1,11 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Our Funky HTML Page</title>
+<meta name="description" content="Our first page">
+<meta name="keywords" content="html tutorial template">
 </head>
 <body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
+Content goes here.
 </body>
 </html>
